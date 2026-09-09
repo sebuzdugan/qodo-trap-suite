@@ -1,0 +1,21 @@
+{
+  "_readme": "Copy to results.json and fill in one block per tool per trap. caught=did it flag the bug at all. named_downstream=did it name the file the diff never opened. pre_pr=was this before any PR existed.",
+  "tools": ["qodo", "coderabbit", "cubic"],
+  "runs": [
+    {"trap": 1, "tool": "qodo",       "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 1, "tool": "coderabbit", "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 1, "tool": "cubic",      "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 2, "tool": "qodo",       "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 2, "tool": "coderabbit", "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 2, "tool": "cubic",      "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 3, "tool": "qodo",       "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 3, "tool": "coderabbit", "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 3, "tool": "cubic",      "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 4, "tool": "qodo",       "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 4, "tool": "coderabbit", "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 4, "tool": "cubic",      "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 5, "tool": "qodo",       "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 5, "tool": "coderabbit", "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""},
+    {"trap": 5, "tool": "cubic",      "caught": null, "named_downstream": null, "pre_pr": true, "notes": ""}
+  ]
+}

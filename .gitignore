@@ -1,0 +1,4 @@
+.venv/
+.pristine/
+.pytest_cache/
+__pycache__/
